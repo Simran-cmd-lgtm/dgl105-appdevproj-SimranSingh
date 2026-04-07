@@ -22,6 +22,7 @@ function addTask() {
   input.value = "";
 }
 
+function markDone(btn) { 
   const li = btn.parentElement;
   li.classList.add("done");
   document.getElementById("doneList").appendChild(li);
