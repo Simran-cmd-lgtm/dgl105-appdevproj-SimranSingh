@@ -2,36 +2,32 @@
 
 **Author:** Simran Singh  
 **Course:** DGL105 Application Development  
-**Date:** 7 April 2026
+**Submission Date:** 7 April 2026
 
 ## Project Description
-A simple Task Management System built with HTML, CSS, and JavaScript. Users can add tasks with priority, mark them as completed, and delete them.
+SmartTaskHub is a simple Task Management System built using HTML, CSS, and JavaScript.
 
 ## Features
-- Add tasks with High, Medium, or Low priority
-- Separate **To Do** and **Completed** sections
-- Mark tasks as Done
+- Add new tasks with priority (High, Medium, Low)
+- Mark tasks as "Done"
 - Delete tasks
-- Color-coded priority borders
+- Color-coded priority (High = Red, Medium = Orange, Low = Green)
+
+## How to Run
+1. Open the `index.html` file in any web browser (Chrome or Safari)
+2. No installation or server needed
 
 ## Technologies Used
 - HTML5
 - CSS3
-- Vanilla JavaScript
-
-## How to Run
-1. Open `index.html` in any web browser
-2. No installation required
+- JavaScript
 
 ## Screenshots
-
-![SmartTaskHub - To Do Tasks](https://github.com/Simran-cmd-lgtm/dgl105-appdevproj-SimranSingh/raw/main/screenshot-todo.png)
-
-![SmartTaskHub - Completed Tasks](https://github.com/Simran-cmd-lgtm/dgl105-appdevproj-SimranSingh/raw/main/screenshot-completed.png)
+(You can add your screenshots here later)
 
 ## Future Improvements
-- Add localStorage to save tasks permanently
-- Drag & Drop Kanban view
+- Add localStorage so tasks stay after refresh
 - Add due dates
+- Create a Kanban board view
 
-Submitted for DGL105 Project Presentation on 7 April 2026.
+Thank you!
