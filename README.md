@@ -1,7 +1,7 @@
 # SmartTaskHub - Task Management System
 
 **Author:** Simran Singh  
-**Course:** DGL105 Application Development  
+**Course:** DGL104 Application Development  
 **Submission Date:** 7 April 2026
 
 ## Project Description
@@ -23,7 +23,10 @@ SmartTaskHub is a simple Task Management System built using HTML, CSS, and JavaS
 - JavaScript
 
 ## Screenshots
-(You can add your screenshots here later)
+![App Screenshot](smarttaskhub-completed.png) 
+![App Screenshot](smarttaskhub-completed.png2.png) 
+![App Screenshot](smarttaskhub-todo.png) 
+![App Screenshot](smarttaskhub-todo.png2.png) 
 
 ## Future Improvements
 - Add localStorage so tasks stay after refresh
